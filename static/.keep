@@ -1,0 +1,1 @@
+Add static/.keep to prevent RuntimeError on Render
